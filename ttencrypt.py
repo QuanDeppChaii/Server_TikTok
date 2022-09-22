@@ -2,7 +2,6 @@ import binascii
 import gzip
 import random
 
-from Crypto.Cipher import AES 
 
 
 class TTEncrypt:
